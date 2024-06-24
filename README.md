@@ -1,7 +1,9 @@
 # Hi there 👋
 
-CRM with passion who likes long-term customer relationships :heart:  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haukelaut@googlemail.com)](mailto:haukelaut@googlemail.com) ![](https://komarev.com/ghpvc/?username=wandersmann731)  
+CRM with passion who likes long-term customer relationships :heart: 
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haukelaut@googlemail.com)](mailto:haukelaut@googlemail.com) ![](https://komarev.com/ghpvc/?username=wandersmann731) 
+
 Summer ⬅️ Northern Germany  
 Fuerteventura ➡️ Winter
 ---
@@ -24,4 +26,3 @@ Fuerteventura ➡️ Winter
 
 ![image](https://github.com/Wandersmann731/Wandersmann731/assets/173609680/caa3ff5e-4677-478d-ab4a-0aad8a5b252d)
 
-![](https://komarev.com/ghpvc/?username=wandersmann731)
