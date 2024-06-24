@@ -1,7 +1,7 @@
 # Hi there 👋
 
 CRM with passion who likes long-term customer relationships :heart:
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haukelaut@googlemail.com)](mailto:haukelaut@googlemail.com)
 Summer ⬅️ Northern Germany  
 Fuerteventura ➡️ Winter
 ---
