@@ -6,7 +6,7 @@ Summer ⬅️ Northern Germany
 Fuerteventura ➡️ Winter
 ---
 
-Some (fun)facts about me
+### Some (fun)facts about me:
 
 [x] 🏝️ Part-time canario (but can´t surf)  
 
