@@ -1,15 +1,16 @@
-# Hi there,
+# Hi there 👋
 
-found what your looking for?
+CRM with passion who likes long-term customer relationships :heart:
 
-Commute between northern Germany and fuerteventura.
+Summer ⬅️ Northern Germany  
+Fuerteventura ➡️ Winter
 ---
 
 Some (fun)facts about me
 
 [x] 🏝️ Part-time canario (but can´t surf)  
 
-[x] 💒 Wedding photographer (but not married)  
+[x] 💒 Take Wedding photos (but not married)  
 
 []   🏃 Train for half marathon (still in progress)  
 
@@ -21,4 +22,4 @@ Some (fun)facts about me
 
 [x] 🐶  Dog dad (this ⬇️ little guy)  
 
-![PXL_20230729_195837140 PORTRAIT](https://github.com/Wandersmann731/Wandersmann731/assets/173609680/023459cb-2a13-4cb0-a98d-9b0e6ab4b11c)
+![image](https://github.com/Wandersmann731/Wandersmann731/assets/173609680/caa3ff5e-4677-478d-ab4a-0aad8a5b252d)
