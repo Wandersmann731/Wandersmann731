@@ -1,16 +1,14 @@
-## Hi there 👋
+# 404
 
-<!--
-**Wandersmann731/Wandersmann731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome in my "rabbit hole"
 
-Here are some ideas to get you started:
+When I'm not on Fuerteventura or photographing weddings, I'm learning to code.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me
+
+[x] Part-time canario  
+[x] Wedding photographer  
+[x] Dog dad  
+[x] Brewer  
+[] Train for a half marathon (in progress)
