@@ -1,8 +1,8 @@
-# 404 
+# Hi there,
 
-Welcome in my "rabbit hole"
+found what your looking for?
 
-When I'm not on Fuerteventura or photographing weddings, I'm learning to code.
+Commute between northern Germany and fuerteventura.
 ---
 
 Some (fun)facts about me
